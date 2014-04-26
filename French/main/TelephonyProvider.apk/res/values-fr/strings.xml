@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
+    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
+<resources>
+  <string name="app_label">Stockage téléphone + Messages</string>
+  <string name="default_cateogry_courier">Courrier</string>
+  <string name="default_cateogry_fraudulent">Frauduleux</string>
+  <string name="default_cateogry_intermediary">Intermédiaire</string>
+  <string name="default_cateogry_meal_delivery">Livraison de repas</string>
+  <string name="default_cateogry_sales">Ventes</string>
+  <string name="mms_provider_label">MMS</string>
+  <string name="mms_sms_provider_label">Messages</string>
+  <string name="sms_provider_label">SMS</string>
+</resources>

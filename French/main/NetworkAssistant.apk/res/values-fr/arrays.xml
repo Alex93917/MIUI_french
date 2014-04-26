@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
+    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
+<resources>
+  <string-array name="date_of_traffic">
+    <item>"Trafic d\'hier "</item>
+    <item>"Trafic d\'aujourd\'hui "</item>
+    <item>"Trafic du mois "</item>
+  </string-array>
+  <string-array name="date_of_app_all">
+    <item>Hier avec la 2G/3G</item>
+    <item>Aujourd\'hui avec la 2G/3G</item>
+    <item>Ce mois avec la 2G/3G</item>
+    <item>Hier avec le Wi-Fi</item>
+    <item>Aujourd\'hui avec le Wi-Fi</item>
+    <item>Ce mois avec le Wi-Fi</item>
+  </string-array>
+  <string-array name="date_of_app">
+    <item>"Hier 2G/3G "</item>
+    <item>"Aujourd\'hui 2G/3G "</item>
+    <item>"Ce mois 2G/3G "</item>
+  </string-array>
+  <string-array name="traffic_uints">
+    <item>" o"</item>
+    <item>Ko</item>
+    <item>Mo</item>
+    <item>Go</item>
+  </string-array>
+</resources>

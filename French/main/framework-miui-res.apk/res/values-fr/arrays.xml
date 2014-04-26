@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
+    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
+<resources>
+  <string-array name="alarm_in_future">
+    <item>Alarme dans moins d\'une minute</item>
+    <item>Alarme dans %1$s</item>
+    <item>Alarme dans %2$s</item>
+    <item>Alarme dans %1$s %2$s</item>
+    <item>Alarme dans %3$s</item>
+    <item>Alarme dans %1$s %3$s</item>
+    <item>Alarme dans %2$s %3$s</item>
+    <item>Alarme dans %1$s %2$s %3$s</item>
+  </string-array>
+  <string-array name="contact_entries">
+    <item>Nom</item>
+    <item>Prénom</item>
+    <item>Téléphone</item>
+    <item>E-mail</item>
+    <item>Entreprise</item>
+    <item>Messagerie instantanée</item>
+    <item>Téléphone SIP</item>
+    <item>Anniversaire</item>
+    <item>Site Web</item>
+    <item>Adresse</item>
+    <item>Note</item>
+  </string-array>
+</resources>

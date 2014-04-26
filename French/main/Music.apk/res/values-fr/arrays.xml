@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
+    more infos : https://github.com/ingbrzy/ma-xml-5.0-FRENCH -->
+<resources>
+    <string-array name="equalizer_presents">
+        <item>Normal</item>
+        <item>Classique</item>
+        <item>Dance</item>
+        <item>Folk</item>
+        <item>Heavy Metal</item>
+        <item>Hip-Hop</item>
+        <item>Jazz</item>
+        <item>Pop</item>
+        <item>Rock</item>
+    </string-array>
+    <string-array name="weeklist">
+        <item>1 semaine</item>
+        <item>2 semaines</item>
+        <item>3 semaines</item>
+        <item>4 semaines</item>
+        <item>5 semaines</item>
+        <item>6 semaines</item>
+        <item>7 semaines</item>
+        <item>8 semaines</item>
+        <item>9 semaines</item>
+        <item>10 semaines</item>
+        <item>11 semaines</item>
+        <item>12 semaines</item>
+    </string-array>
+</resources>

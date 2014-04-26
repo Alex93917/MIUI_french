@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+/*
+* Copyright (C) 2013 The Android Open Source Project
+*
+* Licensed under the Apache License, Version 2.0 (the "License");
+* you may not use this file except in compliance with the License.
+* You may obtain a copy of the License at
+*
+*      http://www.apache.org/licenses/LICENSE-2.0
+*
+* Unless required by applicable law or agreed to in writing, software
+* distributed under the License is distributed on an "AS IS" BASIS,
+* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+* See the License for the specific language governing permissions and
+* limitations under the License.
+*/
+ -->
+<resources>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Le mot de passe doit comporter au moins %d lettres.</item>
+        <item quantity="one">Le mot de passe doit comporter au moins une lettre.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Le mot de passe doit comporter au moins %d lettres minuscules.</item>
+        <item quantity="one">Le mot de passe doit comporter au moins une lettre minuscule.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Le mot de passe doit comporter au moins %d lettres majuscules.</item>
+        <item quantity="one">Le mot de passe doit comporter au moins une lettre majuscule.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Le mot de passe doit comporter au moins %d chiffres.</item>
+        <item quantity="one">Le mot de passe doit comporter au moins un chiffre.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Le mot de passe doit comporter au moins %d caractères spéciaux.</item>
+        <item quantity="one">Le mot de passe doit comporter au moins un caractère spécial.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Le mot de passe doit comporter au moins %d caractères autres que des lettres.</item>
+        <item quantity="one">Le mot de passe doit comporter au moins un caractère autre qu\'une lettre.</item>
+    </plurals>
+    <plurals name="power_center_battery_day">
+        <item quantity="other">"%d jours "</item>
+        <item quantity="one">"%d jour "</item>
+    </plurals>
+    <plurals name="power_center_battery_hour">
+        <item quantity="other">"%d h "</item>
+        <item quantity="one">"%d h "</item>
+    </plurals>
+    <plurals name="power_center_battery_minute">
+        <item quantity="other">"%d min "</item>
+        <item quantity="one">"%d min "</item>
+    </plurals>
+ <!-- 4.2 & + -->
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Plus que %1$d étapes pour devenir un développeur.</item>
+        <item quantity="one">Plus que %1$d étape pour devenir un développeur.</item>
+    </plurals>
+ <!-- 4.3 & + -->
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="one">%d application peut lire les notifications.</item>
+        <item quantity="other">%d applications peuvent lire les notifications.</item>
+    </plurals>
+  <!-- 4.4&+ ? -->
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Code PIN de la carte SIM incorrect. Il vous reste %d tentatives.</item>
+        <item quantity="one">Code PIN de la carte SIM incorrect. Il vous reste %d tentative. Après cela, vous devrez contacter votre opérateur pour déverrouiller votre appareil.</item>
+    </plurals>
+    <plurals name="print_search_result_count_utterance">
+        <item quantity="other">%1$s imprimantes trouvées.</item>
+        <item quantity="one">%1$s imprimante trouvée.</item>
+    </plurals>
+</resources>
